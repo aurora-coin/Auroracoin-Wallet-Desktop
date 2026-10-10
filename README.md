@@ -103,7 +103,7 @@ chmod +x aurora-wallet
 
 ---
 
-## Support
+## Support.
 
 - Guides: [aurora-wallet-docs](https://github.com/aurora-coin/aurora-wallet-docs)
 - Issues: [Report an issue](https://github.com/aurora-coin/Auroracoin-Wallet-Desktop/issues)
